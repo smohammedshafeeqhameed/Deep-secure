@@ -9,4 +9,7 @@ this project was designed for stabilizing security in the desired vicinity , as 
 - built a violence  detection model from a video using the architecture og VGG16 - LSTm model.  
 - built a fire detection model using imageai library for customized object detection. 
 - Integrated a pre-trained accident detection model into the project.   
-- Used multiprocessing library in order to run all the models simultaneously
+- Used multiprocessing library in order to run all the models simultaneously 
+
+# Check it out 
+https://drive.google.com/drive/folders/13LE0KhJnvEkAqbWZpYKGSkUUWJOzwsrf?usp=sharing
