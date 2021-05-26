@@ -2,7 +2,6 @@
 Intelligent Surveillance System.
 
 # Team members 
-( AhmedHisham99 - khaledAIVR - Adhm989). 
  
 # Introduction 
 this project was designed for stabilizing security in the desired vicinity , as it uses computer vision technologies and deep learning to detect listed emergencies like fire , car accidents and violence.  
